@@ -5,7 +5,7 @@ This repository documents my completion and notes for the **Programming Foundati
 ## 🎓 Completion Certificate
 Below is my official certificate of completion:
 
-![Certificate](certificate-of-completion-for-programming-foundations-level-1.pdf)
+![certificate-of-completion-for-programming-foundations-level-1.pdf](certificate-of-completion-for-programming-foundations-level-1.pdf)
 
 ## 📌 What I Learned
 During this foundational course, I built a strong mental model of how computer systems work under the hood before jumping into syntax:
